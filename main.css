@@ -59,4 +59,9 @@ body{
 }
 .card-auther__name span{
     color: #ffffff;
+    transition: .35s;
+}
+.card-auther__name span:hover{
+    color: #1aeae6;
+    transition: .35s;
 }
